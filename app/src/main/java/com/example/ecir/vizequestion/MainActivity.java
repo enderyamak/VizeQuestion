@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 import java.util.Random;
 import java.util.StringTokenizer;
-//version1.1
+//version1.2
 
 public class MainActivity extends AppCompatActivity {
     int[] images;
